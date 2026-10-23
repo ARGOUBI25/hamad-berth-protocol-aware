@@ -22,7 +22,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-10-23"   # TODO: update to the release date
 license: MIT
-repository-code: "https://github.com/YOUR-GITHUB-USERNAME/hamad-berth-protocol-aware"  # TODO
+repository-code: "https://github.com/ARGOUBI25/hamad-berth-protocol-aware"  # TODO
 # doi: "10.5281/zenodo.XXXXXXX"   # TODO: fill after the Zenodo release
 keywords:
   - berth allocation
