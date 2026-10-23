@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper and this archive."
+title: "Code and data for 'Robust Optimization Is Not Enough: Protocol-Aware Plan Selection in Two-Stage Berth Allocation under Disruption'"
+type: software
+authors:
+  - family-names: Mili
+    given-names: Khaled
+    affiliation: "Lusail University, Doha, Qatar"
+    email: "kmili@lu.edu.qa"
+  - family-names: Argoubi
+    given-names: Majdi
+    affiliation: "University of Sousse, Tunisia"
+    email: "mejdiargoubi@yahoo.fr"
+  - family-names: El Kamel
+    given-names: Abdelkader
+    affiliation: "Centrale Lille Institut, France"
+    email: "abdelkader.elkamel@centralelille.fr"
+  - family-names: Aouni
+    given-names: Belaid
+    affiliation: "Lusail University, Doha, Qatar"
+    email: "baouni@lu.edu.qa"
+version: "1.0.0"
+date-released: "2026-10-23"   # TODO: update to the release date
+license: MIT
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/hamad-berth-protocol-aware"  # TODO
+# doi: "10.5281/zenodo.XXXXXXX"   # TODO: fill after the Zenodo release
+keywords:
+  - berth allocation
+  - robust optimization
+  - two-stage recourse
+  - genetic algorithm
+  - container terminal

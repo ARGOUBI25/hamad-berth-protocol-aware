@@ -1,0 +1,33 @@
+{
+  "title": "Code and data for \"Robust Optimization Is Not Enough: Protocol-Aware Plan Selection in Two-Stage Berth Allocation under Disruption\"",
+  "upload_type": "software",
+  "description": "Python implementation (exact recourse MILP, joint robust MILP, protocol-aware genetic algorithm, greedy baselines), the two calibrated Hamad Port instances, the result files behind every table and figure of the paper, and the run manifest. All instances are synthetic, calibrated on public aggregate data (HDX Qatar Daily Port Activity; Mwani Qatar).",
+  "creators": [
+    {
+      "name": "Mili, Khaled",
+      "affiliation": "Lusail University, Doha, Qatar"
+    },
+    {
+      "name": "Argoubi, Majdi",
+      "affiliation": "University of Sousse, Tunisia"
+    },
+    {
+      "name": "El Kamel, Abdelkader",
+      "affiliation": "Centrale Lille Institut, France"
+    },
+    {
+      "name": "Aouni, Belaid",
+      "affiliation": "Lusail University, Doha, Qatar"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "berth allocation",
+    "robust optimization",
+    "two-stage recourse",
+    "genetic algorithm",
+    "container terminal"
+  ],
+  "access_right": "open",
+  "language": "eng"
+}

@@ -1,0 +1,8 @@
+# Versions used for the reported runs (see sensitivity_output/sensitivity_manifest.json):
+#   Python 3.11.4 (Windows, AMD64), ortools 9.14.6206
+ortools==9.14.6206   # pinned: other versions may return a different optimal nominal plan (see README)
+pytest>=7.0
+# only for figures/make_figs.py and verify_matched.py
+pandas>=2.0
+matplotlib>=3.7
+numpy>=1.24
